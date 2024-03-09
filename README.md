@@ -44,7 +44,7 @@ To explore this project and run the models yourself, you'll need to set up your 
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/your_username_/Project-Name.git](https://github.com/yonilev2003/Predicting-loan-approval-rates)
+   git clone https://github.com/yonilev2003/Predicting-loan-approval-rates.git
    ```
 2. Install Python packages
    ```sh
