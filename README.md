@@ -11,7 +11,7 @@
 
 ## About The Project
 
-In my project, I delve into the world of finance to tackle one of the most pressing questions for many: "Will my loan get approved?" Using a dataset of 4,269 loan applicants and after a thorough EDA, I created four machine learning models to predict loan approval chances with an outstanding accuracy.
+In my project, I tackled one of the most pressing questions for many: "Will my loan get approved?" Using a dataset of 4,269 loan applicants and after a thorough EDA, I created four machine learning models to predict loan approval chances with an outstanding accuracy.
 
 ### Key Features
 
